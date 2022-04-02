@@ -1,4 +1,4 @@
-within ZEBGuidelineMid;
+within WaterCooledChillerExample;
 
 partial model WaterCooledChillerExample5 "Primary only chiller plant system with water-side economizer"
   replaceable package MediumA = Buildings.Media.Air "Medium model";
