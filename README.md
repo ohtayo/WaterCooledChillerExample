@@ -1,5 +1,6 @@
 # WaterCooledChillerExample
 * Modelica言語で開発した水冷チラーモデルのサンプルです．
+* [Modelica Buildings library](https://simulationresearch.lbl.gov/modelica/)のExamples.ChillerPlant.DataCenterContinuousTimeControlモデルをもとに開発しました．
 
 # 開発環境
 * OpenModelica v1.17.0 (64-bit)
